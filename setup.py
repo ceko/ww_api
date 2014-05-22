@@ -12,5 +12,5 @@ setup(
     license='LICENSE.txt',
     description='Third-party api for wizard wars',
     long_description=open('README.txt').read(),
-    install_requires=[],
+    install_requires=['beautifulsoup4'],
 )
